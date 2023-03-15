@@ -1,0 +1,2 @@
+# GUSBIR
+Wyszukiwarka podmiotów
